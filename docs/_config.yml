@@ -30,7 +30,7 @@ twitter_username: toddhodes
 github_username: toddhodes
 
 # Build settings
-theme: jekyll-theme-merlot
+theme: jekyll-theme-dinky
 plugins:
   - jekyll-feed
 
